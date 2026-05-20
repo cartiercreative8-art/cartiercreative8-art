@@ -2,7 +2,7 @@
 
 > **AI Automation Engineer & Founder** · Monument, CO
 
-I build AI-powered operating systems for small businesses. At 21, I founded **CartierCreative** — an agency that deploys a full-stack automation suite (website, CRM, AI agent, workflows, Slack workspace) to local service businesses in under 2 hours.
+I build AI-powered operating systems for small businesses. At 22, I founded **CartierCreative** — an agency that deploys a full-stack automation suite (website, CRM, AI agent, workflows, Slack workspace) to local service businesses in under 2 hours.
 
 Everything in this portfolio is production code running real businesses today.
 
